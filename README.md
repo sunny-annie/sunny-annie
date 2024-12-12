@@ -24,6 +24,6 @@ I'm Anya, a Data Scientist interested in NLP and Classic ML.
 </p>
 
 <h3 align="left">Codewars:</h3>
-<a href="https://t.me/https://www.codewars.com/users/sunny_annie" target="blank">
+<a href="https://www.codewars.com/users/sunny_annie" target="blank">
   <img src="https://www.codewars.com/users/sunny_annie/badges/large" alt="Codewars" width="400" />
 </a>
