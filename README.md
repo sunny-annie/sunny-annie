@@ -3,9 +3,9 @@ I'm Anya, a Data Scientist interested in NLP and Classic ML.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anna-baydenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-baydenko" height="30" width="40" /></a>
-<a href="https://kaggle.com/anyabaydenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anyabaydenko" height="30" width="40" /></a>
 <a href="https://t.me/sunny_annie" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/640px-Telegram_logo_icon.svg.png" alt="Telegram" width="30" />
+<a href="https://kaggle.com/anyabaydenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anyabaydenko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anna-baydenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-baydenko" height="30" width="40" /></a>
 </a>
 </p>
 
